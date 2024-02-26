@@ -6,3 +6,4 @@
 
 ![image](https://github.com/udaygiri/Snake-Game/assets/60474023/5d7d79f7-6dfd-422a-8ca4-609c79c29039)
 
+### Thank You ❤
