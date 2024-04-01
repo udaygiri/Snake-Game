@@ -143,29 +143,31 @@ window.addEventListener('keydown', e => {
             inputDir.y = 0;
             break;
 
-        case "l":
-            console.log("l");
-            inputDir.x = 1;
-            inputDir.y = 0;
-            break;
 
-        case "i":
-            console.log("i");
+        case "w":
+            console.log("w");
             inputDir.x = 0;
             inputDir.y = -1;
             break;
 
-        case "k":
-            console.log("k");
+        case "s":
+            console.log("s");
             inputDir.x = 0;
             inputDir.y = 1;
             break;
 
-        case "j":
-            console.log("j");
+        case "a":
+            console.log("a");
             inputDir.x = -1;
             inputDir.y = 0;
             break;
+
+        case "d":
+            console.log("d");
+            inputDir.x = 1;
+            inputDir.y = 0;
+            break;
+            
         default:
             break;
     }
