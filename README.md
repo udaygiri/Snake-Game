@@ -2,7 +2,8 @@
 
 Welcome to **The Snake Game**, a classic game reinvented using modern web technologies including HTML, CSS, and JavaScript. Dive into nostalgia with this simple yet engaging game, where the primary goal is to control a snake to eat food scattered around the game area. With each piece of food consumed, the snake grows in length, and your score increases. But beware! The game ends if the snake touches the borders of the playground.
 
-![image](https://github.com/udaygiri/Snake-Game/assets/60474023/49b1e2dd-56df-4f0d-9946-70d57aa30afe)
+![image](https://github.com/udaygiri/Snake-Game/assets/60474023/3dd7c6d0-fad9-4817-9345-5d54d9f32684)
+
 
 
 ## Features
