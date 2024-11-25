@@ -25,6 +25,6 @@ Welcome to **The Snake Game**, a classic game reinvented using modern web techno
 No installation is required! Just clone the repository and open `index.html` in your web browser.
 
 ```bash
-git clone https://github.com/yourusername/TheSnakeGame.git
+git clone https://github.com/udaygiri/TheSnakeGame.git
 cd TheSnakeGame
 open index.html
